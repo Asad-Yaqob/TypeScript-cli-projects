@@ -1,0 +1,19 @@
+{
+  "name": "second_project_number_guess_02",
+  "version": "1.0.1",
+  "description": "A command line number guessing project.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asad-Yaqoob",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
